@@ -19,3 +19,4 @@ HTML, CSS, JavaScript, Git & GitHub, Nodejs
 
 
 - Via gmail: [Lesley Kimutai ] (leskimuti@gmail.com)
+- + My socials found on my linktree page : [Issagoodlife] (https://linktr.ee/les_kim)
