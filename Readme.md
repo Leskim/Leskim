@@ -25,4 +25,6 @@ HTML, CSS, JavaScript, Git & GitHub, Nodejs
 
 <img src="https://github-readme-stats.vercel.app/api?username=Leskim&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
+### Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leskim&hide=html,css&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
