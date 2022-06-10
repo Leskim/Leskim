@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, Git & GitHub, Nodejs
 - Via gmail: [Lesley Kimutai ] (leskimuti@gmail.com)
 - + My socials found on my linktree page : [Issagoodlife] (https://linktr.ee/les_kim)
 
-###GitHub Stats 
+### GitHub Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Leskim&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
