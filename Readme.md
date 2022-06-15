@@ -28,3 +28,5 @@ HTML, CSS, JavaScript, Git & GitHub, Nodejs
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leskim&hide=html,css&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Leskim&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
