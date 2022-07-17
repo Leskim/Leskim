@@ -1,6 +1,6 @@
 # ** Issagoodlife 💯**
 
-# **👋 What's up!**
+### **👋 What's up!**
 
 Welcome to my GitHub profile, glad to have your company !
 
@@ -13,10 +13,9 @@ I'm studying Microprocessor Instrumentation therefore have knowhow in Embedded S
 
 ## **⭐ Your skills?**
 
-HTML, CSS, JavaScript, Git & GitHub, Nodejs
+HTML, CSS, JavaScript, Git & GitHub, Nodejs, React
 
 ## **📫 How can I reach you?**
-
 
 - Via gmail: [Lesley Kimutai ] (leskimuti@gmail.com)
 - + My socials found on my linktree page : [Issagoodlife] (https://linktr.ee/les_kim)
